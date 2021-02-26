@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers :tada: :sparkle:
 
 - Class Date: December 21, 2020
 - Facilitator: @AAugustine
